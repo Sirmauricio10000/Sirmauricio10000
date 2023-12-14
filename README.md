@@ -49,8 +49,11 @@ Systems Engineer with a focus on software development. I have the ability to wor
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Sirmauricio10000)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mauricio-avenda%C3%B1o-gonzalez-00032821b/)
+[<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/Sirmauricio10000)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/mauricio-avenda%C3%B1o-gonzalez-00032821b/)
+[<img src="https://img.shields.io/badge/whatsapp-%25.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green" />](https://api.whatsapp.com/send?phone=573044787583)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=red" />](mailto:mauricio1907_5@outlook.com)
+
 </p>
 
 
