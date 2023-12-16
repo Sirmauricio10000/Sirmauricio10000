@@ -56,7 +56,7 @@ Hello! I'm a Systems Engineer with a focus on software development. I bring team
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-33CC33?style=for-the-badge&logo=python&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-FFD700?style=for-the-badge&logo=image&logoColor=white)
 
-## I'm actually Learning:
+## I'm currently learning:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
