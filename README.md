@@ -14,6 +14,8 @@ Hello! I'm a Systems Engineer with a focus on software development. I bring team
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Cloud Computing and DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,6 +55,15 @@ Hello! I'm a Systems Engineer with a focus on software development. I bring team
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FFA500?style=for-the-badge&logo=tableau&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-33CC33?style=for-the-badge&logo=python&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-FFD700?style=for-the-badge&logo=image&logoColor=white)
+
+## I'm actually Learning:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ## Connect with Me
 [<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/Sirmauricio10000) [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/mauricio-avenda%C3%B1o-gonzalez-00032821b/) [<img src="https://img.shields.io/badge/whatsapp-%25.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green" />](https://api.whatsapp.com/send?phone=573044787583) [<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=red" />](mailto:mauricio1907_5@outlook.com)
