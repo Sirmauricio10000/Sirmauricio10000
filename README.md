@@ -63,6 +63,9 @@ Hello! I'm a Systems Engineer with a focus on software development. I bring team
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=karate&logoColor=white)
+
 
 
 ## Connect with Me
