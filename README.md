@@ -30,6 +30,9 @@ Hello! I'm a Systems Engineer with a focus on software development. I bring team
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![API Development](https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## Methodologies
 ![DevOps](https://img.shields.io/badge/DevOps-333333?style=for-the-badge&logo=dev.to&logoColor=white)
