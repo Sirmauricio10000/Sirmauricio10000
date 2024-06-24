@@ -1,7 +1,7 @@
 # Hi there! I'm [Mauricio Avendaño](https://github.com/Sirmauricio10000/Sirmauricio10000) 👋
 
 ## About Me
-Hello! I'm a Systems Engineer with a focus on software development. I bring teamwork skills, ethical and professional responsibility, leadership abilities, effective interpersonal relationship management, and a strong willingness to take on new challenges. I have a passion for continuous learning and professional growth.
+Experienced backend developer with a strong focus on building scalable, secure, and high-performance backend solutions. Skilled in microservices architecture, database management, containers, messaging systems, CI/CD pipelines, and comprehensive testing. Dedicated to delivering robust and efficient backend systems.
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
