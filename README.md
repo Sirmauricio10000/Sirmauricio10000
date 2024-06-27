@@ -1,7 +1,7 @@
 # Hi there! I'm [Mauricio Avendaño](https://github.com/Sirmauricio10000/Sirmauricio10000) 👋
 
 ## About Me
-Experienced backend developer with a strong focus on building scalable, secure, and high-performance backend solutions. Skilled in microservices architecture, database management, containers, messaging systems, CI/CD pipelines, and comprehensive testing. Dedicated to delivering robust and efficient backend systems.
+Experienced system engineer with a strong focus on building scalable, secure, and high-performance solutions. Skilled in microservices architecture, database management, container orchestration, messaging systems, CI/CD, automation, and comprehensive testing. Dedicated to delivering robust and efficient systems.
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
